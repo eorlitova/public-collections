@@ -47,14 +47,14 @@ Tags:
   - commercial data
   - geoDB
   - vector
-  - Machine Learning
+  - machine learning
   - agriculture
   - lpis
   - landuse
   - markblokke
 
 License: |
-  [License](https://kortforsyningen.dk/indhold/vilkaar-og-betingelser)
+  [License](https://datafordeler.dk/vejledning/brugervilkaar/)
 Resources:
   - Group: geoDB Resources
     Database: lpis_iacs
@@ -62,4 +62,4 @@ Resources:
     Notes: One collection per year since 2005
 
 RegistryEntryAdded: "2021-05-05"
-RegistryEntryLastModified: "2021-07-05"
+RegistryEntryLastModified: "2023-08-03"
